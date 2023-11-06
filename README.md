@@ -1,4 +1,4 @@
-# *Attack of the Really Big Space Monster - The Poorly-Named Game!*
+# *Attack of the Really Big Space Monster: The Poorly-Named Game!*
 Game rules and campaigns for a role-playing game based on my daydreams about a sci-fi world
 
 Although the game in this repository is far from complete, I nonetheless place elements of it here that are complete enough to be honed down towards a version worth making public.
